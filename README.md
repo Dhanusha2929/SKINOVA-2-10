@@ -61,16 +61,7 @@ This project improved my understanding of modern frontend design and CSS styling
 - Improve mobile navigation
 - Add scroll animations
 
-## 📂 Project Structure
 
-Skinova/
-│
-├── index.html
-├── app.css
-├── assets/
-│ ├── images
-│ └── logo
-└── README.md
 
 ## 👩‍💻 Author
 
